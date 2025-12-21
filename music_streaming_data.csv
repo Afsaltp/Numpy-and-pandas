@@ -1,0 +1,561 @@
+song_id,song_name,artist_name,genre,duration_sec,release_year,stream_count,country,user_rating,skip_rate,playlist_inclusion,platform
+SNG1000,Song_0,Artist_94,EDM,142,2022,1437125,Brazil,2.4,14.6,Yes,Apple Music
+SNG1001,Song_1,Artist_132,Classical,419,2004,914535,Mexico,4.7,53.17,Yes,Apple Music
+SNG1002,Song_2,Artist_118,Jazz,322,2025,112263,UK,3.7,50.51,No,Apple Music
+SNG1003,Song_3,Artist_72,Rock,217,2008,1161804,Australia,4.0,86.2,Yes,YouTube Music
+SNG1004,Song_4,Artist_70,Pop,403,1991,1455675,UK,2.9,64.51,No,Spotify
+SNG1005,Song_5,Artist_74,Rock,347,1996,884833,,4.4,52.28,Yes,Amazon Music
+SNG1006,Song_6,,Jazz,346,2018,1289748,UK,5.0,57.19,Yes,Amazon Music
+SNG1007,Song_7,Artist_84,Reggae,249,2007,1288813,Mexico,4.0,50.32,Yes,YouTube Music
+SNG1008,Song_8,Artist_2,Hip-Hop,346,1994,1692368,USA,3.0,1.96,Yes,Amazon Music
+SNG1009,Song_9,Artist_140,Metal,260,2004,404671,India,3.7,85.78,Yes,YouTube Music
+SNG1010,Song_10,,R&B,126,2005,839414,Germany,4.7,57.83,No,SoundCloud
+SNG1011,Song_11,Artist_103,Rock,412,2008,715612,Canada,1.0,43.35,No,YouTube Music
+SNG1012,Song_12,Artist_75,Metal,246,2010,1044005,Japan,3.3,41.17,No,Apple Music
+SNG1013,Song_13,Artist_60,Pop,123,1991,1622289,Germany,4.4,82.6,Yes,SoundCloud
+SNG1014,Song_14,Artist_105,EDM,300,2001,1391474,Australia,1.4,56.04,No,SoundCloud
+SNG1015,Song_15,Artist_73,,340,2021,931097,Australia,1.6,37.78,No,YouTube Music
+SNG1016,Song_16,Artist_98,Rock,386,1993,1272134,Australia,1.9,71.12,Yes,Amazon Music
+SNG1017,Song_17,Artist_1,Hip-Hop,346,1993,1273314,Brazil,1.6,61.03,Yes,Apple Music
+SNG1018,Song_18,Artist_79,Reggae,181,2010,218063,France,3.0,29.2,No,SoundCloud
+SNG1019,Song_19,Artist_84,Classical,312,2022,1804949,Mexico,3.2,62.79,No,Amazon Music
+SNG1020,Song_20,Artist_56,Jazz,204,2006,985604,Brazil,,44.16,No,SoundCloud
+SNG1021,Song_21,Artist_110,EDM,313,2002,1564730,UK,,77.66,No,Spotify
+SNG1022,Song_22,Artist_86,Metal,204,1995,1124826,USA,1.3,32.15,Yes,SoundCloud
+SNG1023,Song_23,Artist_16,Metal,341,1994,1630302,Canada,1.8,97.98,Yes,YouTube Music
+SNG1024,Song_24,Artist_120,Reggae,373,2018,1742854,UK,3.4,42.49,No,Amazon Music
+SNG1025,Song_25,Artist_135,EDM,293,2024,1944961,France,4.9,35.98,No,SoundCloud
+SNG1026,Song_26,Artist_140,,249,2023,1613054,India,3.9,15.11,Yes,Spotify
+SNG1027,Song_27,Artist_29,Metal,395,1997,1208561,India,1.3,84.69,No,SoundCloud
+SNG1028,Song_28,Artist_3,Metal,339,2014,639823,Germany,3.3,66.42,No,Spotify
+SNG1029,Song_29,Artist_87,Hip-Hop,313,1996,1657669,USA,,96.97,No,YouTube Music
+SNG1030,Song_30,Artist_31,Pop,129,2018,1640943,Australia,,98.55,Yes,Amazon Music
+SNG1031,Song_31,Artist_43,Country,288,2011,1587070,Australia,3.4,36.53,Yes,SoundCloud
+SNG1032,Song_32,Artist_14,Classical,136,2001,93701,Japan,1.5,91.57,Yes,SoundCloud
+SNG1033,Song_33,Artist_54,Reggae,214,2019,24295,Canada,3.4,58.8,Yes,Spotify
+SNG1034,Song_34,Artist_32,Country,251,1995,388066,Canada,5.0,5.96,Yes,YouTube Music
+SNG1035,Song_35,Artist_91,EDM,264,1990,991837,Australia,3.8,99.0,No,Apple Music
+SNG1036,Song_36,Artist_23,Country,250,1994,1640762,Brazil,4.2,82.77,Yes,Amazon Music
+SNG1037,Song_37,Artist_74,Rock,368,2023,1383853,Japan,4.1,41.64,No,Spotify
+SNG1038,Song_38,Artist_127,,202,1991,1959963,Australia,1.8,50.64,Yes,Amazon Music
+SNG1039,Song_39,Artist_114,Classical,164,1999,586959,USA,1.9,60.24,Yes,Amazon Music
+SNG1040,Song_40,Artist_126,Classical,327,1999,1205873,Germany,2.2,34.82,No,YouTube Music
+SNG1041,Song_41,Artist_80,Rock,309,2012,1114969,UK,4.8,64.95,Yes,Spotify
+SNG1042,Song_42,Artist_41,Pop,361,2014,1951303,Germany,,32.95,No,SoundCloud
+SNG1043,Song_43,Artist_57,Hip-Hop,353,2023,1553989,Australia,1.0,30.05,Yes,Amazon Music
+SNG1044,Song_44,Artist_149,Classical,322,2013,1861081,Japan,4.7,4.18,Yes,Spotify
+SNG1045,Song_45,Artist_122,Metal,392,2013,702727,Brazil,4.0,48.72,No,Spotify
+SNG1046,Song_46,Artist_143,Classical,151,1999,1833679,Australia,4.7,68.35,Yes,Spotify
+SNG1047,Song_47,Artist_86,Country,222,2015,1161408,USA,1.5,40.16,No,SoundCloud
+SNG1048,Song_48,Artist_91,Country,241,2009,1219760,Australia,1.8,29.1,Yes,Amazon Music
+SNG1049,Song_49,Artist_81,Metal,163,2020,67925,Canada,1.2,2.52,No,Spotify
+SNG1050,Song_50,Artist_73,Country,179,2016,485083,Australia,4.1,43.42,No,YouTube Music
+SNG1051,Song_51,Artist_34,,231,1994,983331,Australia,2.6,85.05,Yes,Apple Music
+SNG1052,Song_52,Artist_146,Hip-Hop,252,2018,590109,Brazil,3.6,87.87,No,Spotify
+SNG1053,Song_53,Artist_31,Metal,226,1999,370918,Canada,1.5,78.3,Yes,Amazon Music
+SNG1054,Song_54,Artist_29,Classical,129,1993,82199,Mexico,4.5,70.59,Yes,Amazon Music
+SNG1055,Song_55,Artist_113,EDM,293,2016,289592,India,4.5,31.71,Yes,Amazon Music
+SNG1056,Song_56,Artist_12,,312,2018,1377937,Canada,3.0,60.28,No,Spotify
+SNG1057,Song_57,Artist_13,Jazz,204,2025,1782245,France,2.0,12.16,Yes,Apple Music
+SNG1058,Song_58,Artist_142,EDM,302,1998,884043,France,4.2,23.77,No,YouTube Music
+SNG1059,Song_59,Artist_70,Hip-Hop,320,2000,620876,India,4.2,92.69,No,YouTube Music
+SNG1060,Song_60,Artist_14,R&B,291,2015,421188,,3.6,91.18,Yes,Spotify
+SNG1061,Song_61,Artist_120,Rock,196,2025,177049,,3.2,49.7,Yes,Apple Music
+SNG1062,Song_62,Artist_93,Jazz,121,1999,727221,UK,2.6,70.56,Yes,Apple Music
+SNG1063,Song_63,Artist_143,Metal,219,2005,1206504,UK,1.4,22.05,No,SoundCloud
+SNG1064,Song_64,Artist_59,Jazz,154,2003,569989,India,3.7,68.68,Yes,Apple Music
+SNG1065,Song_65,Artist_95,Rock,349,1991,753629,Mexico,2.0,35.26,Yes,Amazon Music
+SNG1066,Song_66,Artist_20,Metal,362,1993,16067,,2.6,31.51,No,SoundCloud
+SNG1067,Song_67,Artist_38,Pop,208,2019,1774930,Australia,2.9,6.24,No,SoundCloud
+SNG1068,Song_68,Artist_65,Classical,416,2003,271241,Germany,1.5,16.44,No,YouTube Music
+SNG1069,Song_69,Artist_48,R&B,197,2003,1309298,France,1.9,69.33,No,Amazon Music
+SNG1070,Song_70,Artist_137,,248,2008,1314897,Mexico,4.6,87.36,No,Amazon Music
+SNG1071,Song_71,Artist_123,Country,150,2002,1563778,France,1.2,82.97,No,Amazon Music
+SNG1072,Song_72,Artist_18,Pop,368,2013,327807,USA,3.2,50.76,No,YouTube Music
+SNG1073,Song_73,,Metal,335,1999,1338701,USA,2.9,62.82,No,YouTube Music
+SNG1074,Song_74,Artist_28,Rock,337,2015,235682,France,1.2,56.63,No,YouTube Music
+SNG1075,Song_75,Artist_89,R&B,168,2022,154801,Brazil,2.4,54.03,Yes,Apple Music
+SNG1076,Song_76,Artist_13,Classical,138,2018,1053404,Japan,2.7,34.86,Yes,YouTube Music
+SNG1077,Song_77,Artist_55,Pop,182,2016,1955258,USA,3.8,79.14,No,Amazon Music
+SNG1078,Song_78,Artist_82,EDM,378,2008,606174,India,1.1,84.94,No,Apple Music
+SNG1079,Song_79,,Country,304,2007,486625,France,4.0,34.87,Yes,Apple Music
+SNG1080,Song_80,Artist_62,Hip-Hop,264,1990,428971,,1.9,97.31,No,YouTube Music
+SNG1081,Song_81,,EDM,181,1995,1315511,UK,4.2,21.5,No,SoundCloud
+SNG1082,Song_82,,Reggae,178,2012,323305,Australia,4.5,14.33,Yes,Spotify
+SNG1083,Song_83,Artist_49,Jazz,237,2021,437747,Canada,4.9,1.04,No,Apple Music
+SNG1084,Song_84,,Rock,226,1993,1967881,France,1.2,97.33,Yes,Apple Music
+SNG1085,Song_85,Artist_119,Pop,151,2004,1690063,USA,3.3,80.6,Yes,Apple Music
+SNG1086,Song_86,Artist_83,Classical,349,2019,836336,Japan,4.1,21.68,No,SoundCloud
+SNG1087,Song_87,Artist_65,Rock,414,1992,1113198,Australia,4.2,50.64,Yes,SoundCloud
+SNG1088,Song_88,Artist_75,,172,1996,1544688,Japan,4.8,46.5,No,SoundCloud
+SNG1089,Song_89,Artist_104,Hip-Hop,379,2007,492884,India,2.2,50.31,No,SoundCloud
+SNG1090,Song_90,Artist_75,Metal,123,2015,1527803,,1.4,63.5,Yes,YouTube Music
+SNG1091,Song_91,Artist_138,Reggae,260,2002,1796701,Canada,1.8,9.22,No,Amazon Music
+SNG1092,Song_92,Artist_11,Rock,314,2008,208817,Mexico,5.0,25.4,No,Apple Music
+SNG1093,Song_93,Artist_59,EDM,298,2021,1749679,UK,,58.85,Yes,Spotify
+SNG1094,Song_94,Artist_119,,184,2005,1216733,USA,4.0,39.07,Yes,SoundCloud
+SNG1095,Song_95,Artist_119,Metal,235,2005,511745,USA,1.3,68.51,Yes,SoundCloud
+SNG1096,Song_96,Artist_80,R&B,176,2019,841579,,1.6,34.18,Yes,Amazon Music
+SNG1097,Song_97,Artist_142,Metal,398,2024,639318,France,3.5,39.55,Yes,
+SNG1098,Song_98,Artist_138,Country,202,1997,973740,UK,2.3,53.27,No,Spotify
+SNG1099,Song_99,Artist_124,Hip-Hop,228,2008,226925,Japan,,6.2,Yes,Apple Music
+SNG1100,Song_100,Artist_10,Country,420,2022,329670,France,4.4,92.51,No,Amazon Music
+SNG1101,Song_101,Artist_149,Rock,368,2001,1735339,Brazil,2.0,68.86,Yes,Apple Music
+SNG1102,Song_102,Artist_17,EDM,359,2016,130649,UK,3.5,60.82,No,Spotify
+SNG1103,Song_103,Artist_85,Pop,195,1991,1701795,Canada,2.2,94.84,No,Apple Music
+SNG1104,Song_104,Artist_75,Hip-Hop,317,1994,1471406,Brazil,2.0,50.69,Yes,
+SNG1105,Song_105,Artist_41,R&B,133,2001,1545980,Germany,3.7,28.63,Yes,Apple Music
+SNG1106,Song_106,Artist_83,EDM,347,1999,895564,Canada,3.5,93.82,Yes,Spotify
+SNG1107,Song_107,Artist_77,Jazz,407,1992,35826,Germany,4.3,27.46,No,YouTube Music
+SNG1108,Song_108,Artist_14,Rock,208,2000,818062,France,1.1,49.6,Yes,Apple Music
+SNG1109,Song_109,,,239,2008,1513618,,4.1,67.36,Yes,Amazon Music
+SNG1110,Song_110,Artist_80,Country,331,2005,1929948,France,1.9,62.1,No,Apple Music
+SNG1111,Song_111,Artist_116,Rock,381,1991,1732084,Mexico,3.0,35.74,Yes,SoundCloud
+SNG1112,Song_112,Artist_88,EDM,212,2023,1570795,USA,3.2,78.29,Yes,YouTube Music
+SNG1113,Song_113,Artist_117,Pop,389,2009,586943,Japan,1.3,77.53,No,Apple Music
+SNG1114,Song_114,Artist_139,,340,2015,831350,India,2.3,53.59,Yes,YouTube Music
+SNG1115,Song_115,Artist_127,Classical,216,1998,918744,Brazil,3.6,80.86,Yes,SoundCloud
+SNG1116,Song_116,Artist_86,Metal,132,1991,331299,Germany,2.7,16.81,No,YouTube Music
+SNG1117,Song_117,Artist_58,R&B,300,2024,31532,UK,4.1,10.79,Yes,Spotify
+SNG1118,Song_118,Artist_80,Jazz,158,1992,1787043,Japan,2.2,68.17,Yes,Amazon Music
+SNG1119,Song_119,Artist_44,EDM,162,2020,1355307,Australia,2.9,5.44,Yes,Amazon Music
+SNG1120,Song_120,Artist_104,Metal,419,2015,20273,Brazil,5.0,49.84,Yes,SoundCloud
+SNG1121,Song_121,Artist_101,Country,208,1993,1888757,Mexico,4.4,48.62,Yes,Spotify
+SNG1122,Song_122,Artist_137,,207,2015,1673565,Australia,1.0,72.33,No,SoundCloud
+SNG1123,Song_123,Artist_96,,126,2020,360250,Germany,1.4,28.48,No,Spotify
+SNG1124,Song_124,Artist_60,,130,2018,1478372,UK,1.5,21.18,No,Amazon Music
+SNG1125,Song_125,Artist_108,Metal,244,2006,887195,India,3.2,48.25,No,SoundCloud
+SNG1126,Song_126,Artist_114,Country,276,2012,1471229,USA,2.8,73.44,Yes,SoundCloud
+SNG1127,Song_127,Artist_16,Classical,292,2018,335932,Mexico,2.5,49.93,Yes,Spotify
+SNG1128,Song_128,Artist_23,Rock,416,2013,1599539,Canada,4.6,47.09,Yes,Spotify
+SNG1129,Song_129,Artist_88,Rock,155,2003,570236,India,1.6,17.33,No,Spotify
+SNG1130,Song_130,Artist_98,EDM,320,2000,1733337,Mexico,1.4,81.44,No,Spotify
+SNG1131,Song_131,Artist_110,Reggae,353,2010,65587,Australia,3.8,63.22,Yes,SoundCloud
+SNG1132,Song_132,,EDM,402,1996,21424,UK,4.3,82.06,No,Amazon Music
+SNG1133,Song_133,Artist_120,Rock,122,1993,411246,UK,2.0,80.12,Yes,Amazon Music
+SNG1134,Song_134,Artist_1,Jazz,369,2002,1630162,Germany,4.0,7.36,Yes,Amazon Music
+SNG1135,Song_135,Artist_101,Metal,348,2007,1819421,France,,90.92,No,Apple Music
+SNG1136,Song_136,Artist_127,Country,351,2011,917939,Australia,1.3,9.67,No,Apple Music
+SNG1137,Song_137,Artist_104,Metal,171,2012,1886296,,2.6,88.2,No,Apple Music
+SNG1138,Song_138,Artist_125,Country,373,2012,908860,USA,1.1,29.99,Yes,SoundCloud
+SNG1139,Song_139,Artist_120,Hip-Hop,411,2016,1284580,,4.2,27.11,No,Amazon Music
+SNG1140,Song_140,Artist_54,Reggae,240,1998,27276,UK,2.5,26.73,No,YouTube Music
+SNG1141,Song_141,Artist_131,,248,2023,1333338,USA,3.2,77.93,Yes,Amazon Music
+SNG1142,Song_142,Artist_10,Rock,200,2013,1750536,India,1.7,77.35,Yes,YouTube Music
+SNG1143,Song_143,Artist_75,Reggae,233,2024,1147084,USA,1.1,43.96,No,Apple Music
+SNG1144,Song_144,Artist_62,Reggae,234,2003,1939673,USA,3.7,12.49,Yes,Apple Music
+SNG1145,Song_145,Artist_75,EDM,132,2008,241226,,1.2,28.14,Yes,Spotify
+SNG1146,Song_146,Artist_104,Country,121,2004,645512,Japan,1.9,73.25,Yes,YouTube Music
+SNG1147,Song_147,Artist_130,Rock,170,2021,1679611,France,3.2,49.35,Yes,Amazon Music
+SNG1148,Song_148,Artist_116,Country,208,2019,307107,Japan,1.5,62.12,No,YouTube Music
+SNG1149,Song_149,Artist_91,Pop,247,2014,1812576,Germany,4.4,89.01,Yes,SoundCloud
+SNG1150,Song_150,Artist_123,Metal,388,2012,273461,Germany,4.8,63.02,No,Spotify
+SNG1151,Song_151,Artist_58,R&B,242,1996,104862,France,1.4,94.63,Yes,Apple Music
+SNG1152,Song_152,Artist_136,rock,391,2011,660647,Mexico,3.2,33.16,No,Spotify
+SNG1153,Song_153,Artist_91,Classical,371,2018,1638412,Canada,3.6,90.91,Yes,Amazon Music
+SNG1154,Song_154,Artist_92,Reggae,354,1992,1429549,Australia,2.1,59.48,Yes,Spotify
+SNG1155,Song_155,Artist_44,Jazz,329,2001,321551,Australia,2.8,45.19,Yes,SoundCloud
+SNG1156,Song_156,Artist_9,R&B,124,2020,1262718,Australia,3.6,33.57,Yes,Amazon Music
+SNG1157,Song_157,Artist_139,EDM,224,1994,1809130,Germany,1.3,16.89,Yes,SoundCloud
+SNG1158,Song_158,Artist_16,,247,1999,242305,Japan,1.7,3.43,No,Apple Music
+SNG1159,Song_159,Artist_89,Hip-Hop,286,1995,160787,UK,,68.61,No,Apple Music
+SNG1160,Song_160,Artist_144,Country,254,2011,345234,India,2.9,92.78,Yes,Apple Music
+SNG1161,Song_161,Artist_71,Reggae,120,2024,191843,India,3.8,71.01,Yes,SoundCloud
+SNG1162,Song_162,Artist_15,Jazz,410,2006,255559,India,2.0,34.8,Yes,Spotify
+SNG1163,Song_163,Artist_93,EDM,137,2010,804989,India,1.1,70.98,No,Amazon Music
+SNG1164,Song_164,Artist_45,EDM,156,2010,1758531,Mexico,2.5,50.82,No,Apple Music
+SNG1165,Song_165,Artist_62,Rock,192,1993,1139783,Australia,2.7,5.23,Yes,SoundCloud
+SNG1166,Song_166,Artist_102,Pop,194,1996,735929,Japan,2.9,44.08,Yes,YouTube Music
+SNG1167,Song_167,,Hip-Hop,180,1991,1148975,USA,3.4,22.03,No,YouTube Music
+SNG1168,Song_168,Artist_128,Reggae,156,2022,1594596,,3.6,14.65,No,
+SNG1169,Song_169,Artist_52,Hip-Hop,269,2014,249600,Japan,4.9,93.29,No,Amazon Music
+SNG1170,Song_170,Artist_80,Pop,227,2017,1541430,Brazil,3.9,23.39,No,Spotify
+SNG1171,Song_171,Artist_99,Reggae,257,1990,1092282,France,3.2,43.96,No,Apple Music
+SNG1172,Song_172,,Hip-Hop,146,1993,931062,Australia,2.8,89.83,No,SoundCloud
+SNG1173,Song_173,Artist_58,Classical,417,1998,890011,UK,3.8,31.01,Yes,Apple Music
+SNG1174,Song_174,Artist_62,Hip-Hop,403,1998,1928673,India,1.9,90.56,Yes,Apple Music
+SNG1175,Song_175,Artist_7,Reggae,412,2025,402195,France,1.5,48.23,No,Spotify
+SNG1176,Song_176,Artist_85,Metal,122,2016,360475,France,1.4,69.15,Yes,Amazon Music
+SNG1177,Song_177,Artist_97,Country,222,1999,159943,Canada,2.6,52.42,Yes,YouTube Music
+SNG1178,Song_178,Artist_47,EDM,293,2025,292865,France,2.7,27.26,Yes,Amazon Music
+SNG1179,Song_179,Artist_72,EDM,314,2021,166660,Germany,1.6,22.9,Yes,SoundCloud
+SNG1180,Song_180,Artist_1,R&B,332,1996,1814683,Germany,4.1,73.71,Yes,YouTube Music
+SNG1181,Song_181,Artist_15,Country,348,2011,587511,France,4.8,99.06,No,YouTube Music
+SNG1182,Song_182,Artist_147,Classical,407,2016,536229,UK,3.2,64.15,Yes,Amazon Music
+SNG1183,Song_183,Artist_7,Metal,362,2002,1396675,Australia,2.6,51.85,Yes,Amazon Music
+SNG1184,Song_184,,Reggae,323,2013,12137,Germany,1.4,71.46,Yes,Spotify
+SNG1185,Song_185,,Reggae,403,2021,1598921,UK,4.4,96.15,No,SoundCloud
+SNG1186,Song_186,Artist_52,Pop,289,2016,319921,,2.7,50.93,Yes,YouTube Music
+SNG1187,Song_187,Artist_146,,332,2012,1987273,India,2.1,15.57,No,Amazon Music
+SNG1188,Song_188,Artist_119,Pop,381,2021,1328842,Germany,4.8,59.86,Yes,Apple Music
+SNG1189,Song_189,Artist_53,Country,195,2015,898262,,2.6,49.32,No,Spotify
+SNG1190,Song_190,Artist_82,R&B,372,2025,1044504,Germany,1.3,70.47,Yes,Spotify
+SNG1191,Song_191,Artist_87,R&B,338,2009,1997611,UK,4.0,26.34,Yes,Apple Music
+SNG1192,Song_192,Artist_22,EDM,265,1995,524130,UK,3.8,56.58,No,YouTube Music
+SNG1193,Song_193,Artist_54,Reggae,351,2008,1861163,UK,2.2,24.26,No,Spotify
+SNG1194,Song_194,Artist_10,Country,345,2014,1522794,USA,4.3,18.51,Yes,Amazon Music
+SNG1195,Song_195,,EDM,230,1997,527236,India,1.6,5.63,No,Apple Music
+SNG1196,Song_196,Artist_24,Metal,184,2017,910802,,4.5,96.61,Yes,Amazon Music
+SNG1197,Song_197,Artist_19,Metal,247,2024,78387,Mexico,4.9,0.58,Yes,Amazon Music
+SNG1198,Song_198,Artist_12,R&B,302,2015,1610165,Canada,3.0,38.7,No,Apple Music
+SNG1199,Song_199,Artist_104,Rock,247,2002,85636,Canada,1.8,3.37,No,Spotify
+SNG1200,Song_200,Artist_97,Reggae,224,1990,453668,Australia,3.8,90.72,No,YouTube Music
+SNG1201,Song_201,Artist_66,Reggae,144,2023,1097759,Japan,1.8,35.46,No,Spotify
+SNG1202,Song_202,Artist_66,Country,367,2021,1318696,,1.4,95.11,No,YouTube Music
+SNG1203,Song_203,Artist_78,EDM,157,1999,1504873,France,3.5,10.74,Yes,SoundCloud
+SNG1204,Song_204,Artist_75,R&B,207,2007,1330184,Australia,2.4,79.16,No,Amazon Music
+SNG1205,Song_205,Artist_134,R&B,408,2017,500666,Brazil,3.8,81.37,No,YouTube Music
+SNG1206,Song_206,Artist_45,Country,412,2006,1540747,Germany,4.3,4.94,No,Amazon Music
+SNG1207,Song_207,Artist_119,Hip-Hop,138,1991,385794,UK,2.8,25.9,No,SoundCloud
+SNG1208,Song_208,Artist_43,Rock,366,2020,564945,Brazil,1.3,68.46,Yes,YouTube Music
+SNG1209,Song_209,Artist_92,,308,1992,1214784,UK,1.5,10.4,No,
+SNG1210,Song_210,Artist_5,Jazz,273,1998,1941902,Canada,4.7,86.13,No,YouTube Music
+SNG1211,Song_211,Artist_46,Rock,293,2003,107313,Mexico,2.6,36.49,Yes,Spotify
+SNG1212,Song_212,Artist_133,Pop,387,2018,436157,USA,2.2,88.44,Yes,Apple Music
+SNG1213,Song_213,Artist_55,Classical,162,2014,1966542,Brazil,1.6,62.12,Yes,Apple Music
+SNG1214,Song_214,Artist_45,Rock,175,2002,1020723,Japan,2.9,11.26,No,Spotify
+SNG1215,Song_215,Artist_134,Rock,341,2023,1850663,Mexico,1.1,68.61,No,Spotify
+SNG1216,Song_216,Artist_12,Hip-Hop,151,1997,277385,Brazil,2.4,98.76,Yes,YouTube Music
+SNG1217,Song_217,Artist_147,,360,2020,1567550,,2.0,41.48,Yes,YouTube Music
+SNG1218,Song_218,,Metal,218,2014,1635808,India,1.3,66.1,No,Spotify
+SNG1219,Song_219,Artist_44,R&B,155,1996,657065,UK,1.7,73.44,Yes,SoundCloud
+SNG1220,Song_220,,Country,400,2020,1803924,France,3.3,56.99,Yes,Amazon Music
+SNG1221,Song_221,Artist_95,EDM,369,2015,69724,USA,4.0,29.62,No,Apple Music
+SNG1222,Song_222,Artist_55,Hip-Hop,376,2022,329044,USA,2.8,79.16,Yes,YouTube Music
+SNG1223,Song_223,Artist_139,EDM,162,2018,1380470,Brazil,2.1,21.16,Yes,Apple Music
+SNG1224,Song_224,Artist_20,Rock,343,2006,499011,India,3.7,60.8,Yes,YouTube Music
+SNG1225,Song_225,Artist_89,R&B,312,2013,1409966,USA,1.5,38.66,No,Apple Music
+SNG1226,Song_226,Artist_81,Reggae,188,2020,1423873,Canada,1.7,53.65,Yes,Spotify
+SNG1227,Song_227,Artist_144,Country,251,1999,1604191,UK,,7.0,No,Spotify
+SNG1228,Song_228,Artist_106,EDM,137,2008,1684753,Mexico,1.9,79.49,Yes,YouTube Music
+SNG1229,Song_229,Artist_23,Country,162,2022,1254601,France,3.3,23.93,No,Apple Music
+SNG1230,Song_230,Artist_138,Reggae,254,2009,132144,Australia,3.5,88.92,Yes,Amazon Music
+SNG1231,Song_231,Artist_19,Pop,170,2001,1594972,Japan,4.0,18.28,No,Amazon Music
+SNG1232,Song_232,Artist_2,Hip-Hop,228,2017,517198,Germany,1.8,25.59,Yes,YouTube Music
+SNG1233,Song_233,Artist_114,Classical,131,2022,274932,Japan,2.2,65.23,No,YouTube Music
+SNG1234,Song_234,Artist_100,Jazz,187,1991,892135,France,2.6,51.04,No,Apple Music
+SNG1235,Song_235,Artist_44,Pop,199,2002,1948417,Mexico,2.0,36.71,No,
+SNG1236,Song_236,Artist_33,Country,193,2024,1130323,India,2.8,16.3,No,Amazon Music
+SNG1237,Song_237,Artist_80,Classical,176,2023,171527,Canada,2.7,97.8,Yes,Amazon Music
+SNG1238,Song_238,Artist_77,R&B,279,2013,796936,Japan,1.5,80.33,Yes,Spotify
+SNG1239,Song_239,Artist_146,Rock,353,2017,1086272,India,,98.29,No,SoundCloud
+SNG1240,Song_240,Artist_84,R&B,256,1993,516060,Canada,1.3,93.33,Yes,Spotify
+SNG1241,Song_241,Artist_72,Rock,358,2021,110042,India,4.5,47.9,No,Spotify
+SNG1242,Song_242,Artist_57,,211,2007,1297598,UK,4.9,23.51,No,SoundCloud
+SNG1243,Song_243,Artist_140,,382,2002,409437,France,4.6,24.8,No,Amazon Music
+SNG1244,Song_244,Artist_32,EDM,295,1995,444212,Australia,4.9,36.51,No,Amazon Music
+SNG1245,Song_245,Artist_22,Country,211,2001,1894547,Brazil,3.9,83.78,No,YouTube Music
+SNG1246,Song_246,Artist_11,,264,2023,986427,France,2.3,94.74,Yes,Apple Music
+SNG1247,Song_247,Artist_101,,286,1993,843875,Mexico,4.0,33.79,No,YouTube Music
+SNG1248,Song_248,Artist_71,Pop,213,2023,645254,Germany,1.2,80.68,Yes,SoundCloud
+SNG1249,Song_249,Artist_8,EDM,147,2014,794900,Canada,1.2,74.21,No,Spotify
+SNG1250,Song_250,Artist_90,Jazz,372,1992,242314,Mexico,1.4,70.83,No,YouTube Music
+SNG1251,Song_251,Artist_40,Pop,151,2005,841360,Germany,2.6,31.36,No,SoundCloud
+SNG1252,Song_252,Artist_19,Classical,294,1991,1756473,Mexico,2.7,66.37,No,Apple Music
+SNG1253,Song_253,Artist_113,Reggae,274,2004,1635770,Australia,4.7,53.74,Yes,Amazon Music
+SNG1254,Song_254,Artist_121,R&B,149,2010,1648411,UK,2.3,94.42,No,Amazon Music
+SNG1255,Song_255,Artist_150,Rock,355,2010,429992,Japan,4.0,73.02,No,Apple Music
+SNG1256,Song_256,Artist_116,R&B,271,2017,1202517,USA,4.2,67.54,Yes,Spotify
+SNG1257,Song_257,Artist_139,Reggae,159,1991,1028811,Australia,3.6,8.68,Yes,Spotify
+SNG1258,Song_258,Artist_150,Rock,285,2025,1957038,India,3.4,71.04,No,Amazon Music
+SNG1259,Song_259,Artist_122,Metal,328,1990,1640657,Japan,4.4,37.34,No,Spotify
+SNG1260,Song_260,Artist_97,Country,401,2004,1168214,UK,3.5,68.5,Yes,Amazon Music
+SNG1261,Song_261,Artist_76,Metal,236,2005,1963715,France,4.3,87.27,No,SoundCloud
+SNG1262,Song_262,Artist_30,R&B,416,2011,790413,Japan,4.0,87.56,No,Amazon Music
+SNG1263,Song_263,Artist_65,Metal,376,2006,967889,Japan,1.7,39.13,Yes,YouTube Music
+SNG1264,Song_264,Artist_94,Rock,357,2013,1195041,Canada,4.3,67.2,No,Spotify
+SNG1265,Song_265,Artist_63,EDM,205,2020,1486618,Canada,2.6,93.56,No,Apple Music
+SNG1266,Song_266,Artist_7,Hip-Hop,417,1996,1783358,France,3.1,41.89,Yes,YouTube Music
+SNG1267,Song_267,Artist_54,,199,2012,1114852,Brazil,3.4,54.8,No,SoundCloud
+SNG1268,Song_268,Artist_19,Reggae,292,2006,1998217,USA,,46.67,No,SoundCloud
+SNG1269,Song_269,Artist_102,EDM,180,2023,875263,Brazil,2.4,50.95,No,Spotify
+SNG1270,Song_270,Artist_67,Pop,262,2007,337431,USA,1.5,25.59,No,SoundCloud
+SNG1271,Song_271,Artist_99,Jazz,186,2007,756500,Germany,2.4,21.66,No,Apple Music
+SNG1272,Song_272,Artist_131,Metal,371,1993,1265448,Germany,4.6,15.42,No,
+SNG1273,Song_273,Artist_9,,297,2019,337628,Australia,2.8,10.18,No,YouTube Music
+SNG1274,Song_274,Artist_22,Country,268,1994,373103,France,4.7,42.75,No,YouTube Music
+SNG1275,Song_275,Artist_87,Classical,289,2025,356854,UK,,9.34,No,YouTube Music
+SNG1276,Song_276,Artist_20,EDM,161,1994,276432,UK,3.3,87.88,No,Amazon Music
+SNG1277,Song_277,Artist_130,Reggae,174,1999,459839,Japan,3.1,90.38,No,Amazon Music
+SNG1278,Song_278,,Classical,223,2011,1946189,India,4.6,25.24,No,YouTube Music
+SNG1279,Song_279,Artist_142,R&B,293,2024,973931,India,4.1,29.32,No,SoundCloud
+SNG1280,Song_280,Artist_43,Reggae,167,2007,1435741,Mexico,2.3,2.14,No,YouTube Music
+SNG1281,Song_281,Artist_107,Jazz,336,2023,1933634,Germany,3.2,1.64,Yes,Spotify
+SNG1282,Song_282,Artist_3,Jazz,148,2020,1314139,,2.2,0.37,No,Amazon Music
+SNG1283,Song_283,Artist_6,EDM,185,2014,462160,USA,4.6,93.9,Yes,Spotify
+SNG1284,Song_284,Artist_30,Reggae,211,1990,387049,Australia,1.2,29.67,Yes,Amazon Music
+SNG1285,Song_285,Artist_103,R&B,257,2015,235680,Brazil,3.5,81.81,No,Apple Music
+SNG1286,Song_286,Artist_83,Hip-Hop,162,1990,973857,Japan,4.5,85.2,No,
+SNG1287,Song_287,Artist_6,Jazz,367,1991,1115377,Australia,4.2,79.81,No,SoundCloud
+SNG1288,Song_288,Artist_111,Jazz,312,2008,807107,USA,2.1,35.96,Yes,Spotify
+SNG1289,Song_289,,Metal,209,2008,704299,USA,2.4,10.68,Yes,Apple Music
+SNG1290,Song_290,Artist_26,Classical,185,2001,381408,,4.2,65.05,No,SoundCloud
+SNG1291,Song_291,Artist_31,EDM,239,2017,1327044,UK,2.4,12.15,No,SoundCloud
+SNG1292,Song_292,Artist_32,Metal,188,2016,1540666,Canada,1.4,97.79,Yes,Spotify
+SNG1293,Song_293,Artist_31,Reggae,202,2004,374017,USA,2.9,74.8,No,Spotify
+SNG1294,Song_294,Artist_71,Country,149,2012,1594553,Canada,2.6,68.15,No,Spotify
+SNG1295,Song_295,Artist_149,,189,2006,1969713,Japan,2.0,58.67,No,SoundCloud
+SNG1296,Song_296,Artist_92,Hip-Hop,190,2003,1749778,UK,2.2,25.44,Yes,Apple Music
+SNG1297,Song_297,Artist_8,Country,198,2005,135176,UK,,10.0,No,Amazon Music
+SNG1298,Song_298,Artist_101,R&B,228,1990,1989770,Germany,4.0,57.91,Yes,SoundCloud
+SNG1299,Song_299,Artist_100,Metal,295,1993,1353608,Australia,1.6,98.39,No,Apple Music
+SNG1300,Song_300,Artist_6,R&B,391,2004,187434,USA,3.0,82.51,No,Amazon Music
+SNG1301,Song_301,Artist_104,Rock,262,2002,443091,Mexico,3.9,97.85,Yes,Apple Music
+SNG1302,Song_302,Artist_134,R&B,200,1995,281471,France,3.3,32.3,No,Amazon Music
+SNG1303,Song_303,Artist_50,Country,280,2023,543259,USA,3.5,88.9,No,SoundCloud
+SNG1304,Song_304,Artist_98,Jazz,188,1992,1589163,Australia,4.2,83.56,Yes,YouTube Music
+SNG1305,Song_305,Artist_99,Reggae,289,2008,1972502,USA,1.2,93.13,Yes,YouTube Music
+SNG1306,Song_306,Artist_39,,416,1994,746865,UK,2.2,36.63,No,SoundCloud
+SNG1307,Song_307,Artist_17,Pop,229,2015,1271210,Brazil,3.8,52.87,No,Amazon Music
+SNG1308,Song_308,Artist_139,Reggae,204,2000,1729404,Canada,3.2,86.54,No,Amazon Music
+SNG1309,Song_309,Artist_63,,150,1992,993189,Mexico,4.7,81.93,No,SoundCloud
+SNG1310,Song_310,Artist_18,Hip-Hop,155,1996,1831813,Mexico,3.3,92.58,No,Spotify
+SNG1311,Song_311,Artist_88,Pop,205,2014,1737649,Canada,4.4,8.75,Yes,Spotify
+SNG1312,Song_312,Artist_52,,239,1995,1238174,Germany,1.4,92.91,No,Spotify
+SNG1313,Song_313,Artist_12,Metal,153,1999,47182,France,2.0,35.8,Yes,Apple Music
+SNG1314,Song_314,Artist_59,EDM,240,2018,1098525,UK,2.5,0.28,No,YouTube Music
+SNG1315,Song_315,Artist_50,Hip-Hop,303,1998,530957,USA,,70.02,No,YouTube Music
+SNG1316,Song_316,Artist_62,Metal,268,2012,1009828,Australia,3.2,86.64,Yes,Amazon Music
+SNG1317,Song_317,Artist_60,,180,2023,1862624,USA,2.3,79.64,No,SoundCloud
+SNG1318,Song_318,Artist_146,,226,2018,1821324,France,1.1,66.73,Yes,YouTube Music
+SNG1319,Song_319,Artist_81,Country,187,2005,340340,India,1.2,57.48,No,Spotify
+SNG1320,Song_320,Artist_47,R&B,378,1996,616397,Australia,3.8,75.57,No,Apple Music
+SNG1321,Song_321,Artist_94,R&B,263,1992,271776,India,3.6,56.65,No,Spotify
+SNG1322,Song_322,Artist_28,EDM,167,2018,1593571,Mexico,4.6,89.55,Yes,Apple Music
+SNG1323,Song_323,Artist_141,Hip-Hop,211,2006,107168,Australia,4.1,26.66,No,YouTube Music
+SNG1324,Song_324,Artist_33,EDM,133,2025,499251,India,2.6,51.27,No,SoundCloud
+SNG1325,Song_325,Artist_142,EDM,315,2010,1660600,Australia,3.9,72.69,No,SoundCloud
+SNG1326,Song_326,Artist_116,Reggae,387,2004,1349275,France,4.9,27.13,Yes,Amazon Music
+SNG1327,Song_327,Artist_22,Jazz,271,1991,35999,Canada,2.4,63.65,No,
+SNG1328,Song_328,Artist_96,,287,1994,1904472,Australia,4.1,23.61,Yes,YouTube Music
+SNG1329,Song_329,Artist_76,Classical,235,2011,1083714,UK,4.3,8.99,Yes,SoundCloud
+SNG1330,Song_330,Artist_107,Classical,180,2009,1864365,India,1.5,70.6,No,SoundCloud
+SNG1331,Song_331,Artist_102,Reggae,136,2016,556733,Japan,3.5,2.7,Yes,Amazon Music
+SNG1332,Song_332,Artist_145,Reggae,415,2001,512521,Japan,2.7,53.83,No,Spotify
+SNG1333,Song_333,Artist_101,Classical,315,2016,1435773,Canada,3.0,54.71,Yes,Amazon Music
+SNG1334,Song_334,Artist_65,Jazz,176,1991,491807,Canada,1.5,0.36,No,SoundCloud
+SNG1335,Song_335,Artist_87,Metal,142,2016,1860150,Canada,,29.69,No,Amazon Music
+SNG1336,Song_336,Artist_18,Classical,385,1995,1362772,Japan,4.1,59.44,No,Amazon Music
+SNG1337,Song_337,Artist_128,Jazz,161,1995,946546,Mexico,1.1,43.92,No,Apple Music
+SNG1338,Song_338,Artist_70,Metal,204,1997,501432,Australia,1.3,92.82,No,SoundCloud
+SNG1339,Song_339,Artist_122,Pop,128,2018,1172558,Japan,5.0,72.66,No,Apple Music
+SNG1340,Song_340,Artist_83,Reggae,236,2010,92908,Mexico,3.5,1.45,No,SoundCloud
+SNG1341,Song_341,Artist_110,Pop,281,2003,349824,USA,3.4,21.49,No,Amazon Music
+SNG1342,Song_342,Artist_30,Country,218,2009,209126,USA,4.3,22.67,No,
+SNG1343,Song_343,Artist_45,Jazz,184,2022,1427217,Australia,1.7,15.14,Yes,Apple Music
+SNG1344,Song_344,Artist_17,Country,136,1996,962494,Mexico,2.9,62.84,Yes,Spotify
+SNG1345,Song_345,Artist_8,EDM,156,1994,809218,India,3.6,20.92,Yes,Apple Music
+SNG1346,Song_346,Artist_85,R&B,354,2018,361983,,2.9,11.07,Yes,YouTube Music
+SNG1347,Song_347,Artist_67,Pop,302,2004,1441558,Mexico,1.7,66.32,Yes,SoundCloud
+SNG1348,Song_348,Artist_39,Classical,178,2003,1100154,Japan,1.9,86.46,No,Spotify
+SNG1349,Song_349,Artist_125,Rock,193,2025,874837,USA,1.8,49.62,No,SoundCloud
+SNG1350,Song_350,Artist_141,EDM,267,2022,872911,Germany,3.3,93.32,No,Apple Music
+SNG1351,Song_351,Artist_9,Classical,341,1997,319937,Germany,2.7,19.14,Yes,Amazon Music
+SNG1352,Song_352,Artist_143,EDM,143,1991,500836,India,1.3,20.95,No,Amazon Music
+SNG1353,Song_353,Artist_124,EDM,290,1998,627472,USA,1.7,74.56,No,SoundCloud
+SNG1354,Song_354,Artist_48,Jazz,368,2000,160250,Australia,4.9,73.33,Yes,SoundCloud
+SNG1355,Song_355,Artist_8,Pop,180,2002,502852,Brazil,3.6,53.02,Yes,Spotify
+SNG1356,Song_356,Artist_133,Reggae,408,2023,964898,Australia,3.9,77.14,No,Apple Music
+SNG1357,Song_357,Artist_48,EDM,125,2025,1439329,Brazil,4.1,54.84,No,Spotify
+SNG1358,Song_358,Artist_75,Metal,150,2020,350880,USA,4.2,11.78,No,Apple Music
+SNG1359,Song_359,Artist_57,Pop,198,2006,1979554,Australia,1.6,63.42,No,Amazon Music
+SNG1360,Song_360,Artist_137,R&B,399,2008,195074,UK,4.4,49.7,No,Amazon Music
+SNG1361,Song_361,Artist_126,,240,2012,1222680,Germany,1.9,83.74,No,YouTube Music
+SNG1362,Song_362,Artist_35,R&B,414,2001,1426870,Australia,1.6,57.42,Yes,SoundCloud
+SNG1363,Song_363,Artist_33,Hip-Hop,217,2009,451354,Brazil,3.1,11.44,No,Spotify
+SNG1364,Song_364,,EDM,280,1991,1172937,Canada,4.6,6.24,Yes,Amazon Music
+SNG1365,Song_365,Artist_15,Metal,403,2002,471690,France,2.1,41.32,Yes,Amazon Music
+SNG1366,Song_366,Artist_14,Country,318,2007,901938,India,2.7,19.71,No,Spotify
+SNG1367,Song_367,Artist_107,,164,2000,1545111,Brazil,1.7,4.4,No,Amazon Music
+SNG1368,Song_368,,Hip-Hop,248,2017,669015,USA,3.5,95.57,No,
+SNG1369,Song_369,Artist_14,Reggae,167,2020,326587,France,2.7,39.31,Yes,SoundCloud
+SNG1370,Song_370,Artist_24,Pop,333,2012,1650576,Canada,3.0,79.97,No,Apple Music
+SNG1371,Song_371,Artist_45,R&B,165,2015,578003,Japan,1.1,34.99,Yes,Amazon Music
+SNG1372,Song_372,Artist_30,Country,420,2021,754435,Brazil,2.1,42.56,No,SoundCloud
+SNG1373,Song_373,Artist_101,R&B,391,2005,1496975,Australia,1.9,67.08,Yes,Apple Music
+SNG1374,Song_374,Artist_121,R&B,315,2025,1402745,India,3.4,63.17,No,YouTube Music
+SNG1375,Song_375,Artist_83,EDM,217,1999,1079479,India,4.1,95.97,Yes,Spotify
+SNG1376,Song_376,Artist_138,EDM,319,2009,661591,UK,3.7,85.41,No,SoundCloud
+SNG1377,Song_377,Artist_57,,124,2002,1930028,Canada,2.8,64.0,No,Amazon Music
+SNG1378,Song_378,Artist_40,,383,2000,1259917,USA,1.3,48.41,Yes,YouTube Music
+SNG1379,Song_379,Artist_61,Metal,189,1997,1869639,UK,3.1,58.26,Yes,Apple Music
+SNG1380,Song_380,Artist_88,,321,2021,200456,Japan,3.5,59.49,Yes,Spotify
+SNG1381,Song_381,Artist_32,Jazz,331,2014,1296125,Canada,3.8,57.45,No,YouTube Music
+SNG1382,Song_382,,EDM,179,2014,1436372,Brazil,2.2,45.6,Yes,Spotify
+SNG1383,Song_383,Artist_135,Hip-Hop,323,2011,1137072,UK,1.3,42.42,Yes,Apple Music
+SNG1384,Song_384,Artist_128,R&B,174,2013,1968198,Mexico,4.6,84.66,No,YouTube Music
+SNG1385,Song_385,Artist_82,Classical,351,2005,248353,Japan,1.6,43.83,No,
+SNG1386,Song_386,Artist_133,Pop,395,2020,1146818,France,4.3,12.31,Yes,Spotify
+SNG1387,Song_387,Artist_135,EDM,135,2009,1810907,France,2.3,79.17,No,YouTube Music
+SNG1388,Song_388,Artist_91,R&B,355,2015,1685617,USA,3.0,44.21,Yes,SoundCloud
+SNG1389,Song_389,Artist_131,Rock,154,2003,1677582,Brazil,,8.91,Yes,Apple Music
+SNG1390,Song_390,Artist_94,Jazz,299,1997,479381,Germany,2.9,4.02,No,Amazon Music
+SNG1391,Song_391,Artist_14,EDM,184,1993,704304,Germany,4.8,42.49,No,Spotify
+SNG1392,Song_392,Artist_49,Jazz,388,2024,203021,Brazil,4.4,51.8,No,Amazon Music
+SNG1393,Song_393,Artist_44,EDM,150,2021,1059581,Canada,1.6,40.81,No,Amazon Music
+SNG1394,Song_394,Artist_2,Pop,305,2015,233804,USA,4.8,75.74,No,YouTube Music
+SNG1395,Song_395,Artist_97,Reggae,397,2010,1374817,Brazil,2.0,92.62,Yes,Apple Music
+SNG1396,Song_396,,R&B,202,2004,1336131,Australia,1.9,60.29,Yes,SoundCloud
+SNG1397,Song_397,Artist_119,Classical,134,2003,1605174,UK,2.0,12.34,Yes,Amazon Music
+SNG1398,Song_398,Artist_61,Pop,208,2011,328922,UK,1.8,6.92,Yes,YouTube Music
+SNG1399,Song_399,Artist_48,,388,1997,86338,UK,3.0,61.07,No,Amazon Music
+SNG1400,Song_400,Artist_72,Classical,391,2017,656499,Canada,,77.57,Yes,Spotify
+SNG1401,Song_401,Artist_90,Jazz,162,2016,1502866,Australia,1.0,76.35,Yes,Spotify
+SNG1402,Song_402,Artist_33,Metal,236,2023,779702,USA,4.8,27.51,Yes,Spotify
+SNG1403,Song_403,Artist_124,Country,188,2004,889898,Mexico,4.5,71.98,No,Apple Music
+SNG1404,Song_404,Artist_76,Country,334,2005,276419,France,4.6,74.27,No,Amazon Music
+SNG1405,Song_405,Artist_57,Reggae,141,2018,1607723,Japan,,62.82,Yes,YouTube Music
+SNG1406,Song_406,Artist_136,Rock,135,2018,1265878,France,1.5,95.86,Yes,Apple Music
+SNG1407,Song_407,Artist_61,Reggae,128,1999,1545085,Germany,2.4,79.61,No,Amazon Music
+SNG1408,Song_408,Artist_81,Hip-Hop,287,2003,620227,Germany,1.6,43.82,No,Amazon Music
+SNG1409,Song_409,Artist_40,,136,2014,1908377,,2.8,1.85,Yes,YouTube Music
+SNG1410,Song_410,Artist_82,Metal,267,2008,1936338,Brazil,3.2,40.88,No,Apple Music
+SNG1411,Song_411,Artist_139,Reggae,397,2011,779808,USA,4.6,2.9,Yes,Apple Music
+SNG1412,Song_412,Artist_14,,285,1993,680249,Australia,1.6,59.54,Yes,YouTube Music
+SNG1413,Song_413,Artist_106,Pop,377,2022,344502,Brazil,3.3,90.43,Yes,SoundCloud
+SNG1414,Song_414,Artist_122,Reggae,322,2013,1922421,France,2.5,65.51,No,YouTube Music
+SNG1415,Song_415,Artist_143,Metal,335,1993,1389311,,4.4,1.97,Yes,SoundCloud
+SNG1416,Song_416,Artist_53,Pop,207,2001,1582294,Mexico,3.2,43.75,Yes,SoundCloud
+SNG1417,Song_417,Artist_69,R&B,275,2017,1673017,France,3.6,37.47,Yes,YouTube Music
+SNG1418,Song_418,Artist_148,R&B,285,1994,188156,Brazil,1.5,52.6,Yes,Apple Music
+SNG1419,Song_419,Artist_110,Classical,149,2013,646911,France,1.7,48.02,No,YouTube Music
+SNG1420,Song_420,Artist_140,,261,2018,545322,Japan,2.1,17.15,Yes,Amazon Music
+SNG1421,Song_421,Artist_28,Pop,121,2001,40585,USA,4.6,75.89,Yes,Amazon Music
+SNG1422,Song_422,Artist_42,Metal,122,2021,1192428,Japan,4.3,25.98,Yes,Apple Music
+SNG1423,Song_423,Artist_108,Metal,184,2003,637643,UK,2.0,84.38,Yes,Amazon Music
+SNG1424,Song_424,Artist_26,R&B,203,2003,1115472,India,2.8,4.57,Yes,SoundCloud
+SNG1425,Song_425,Artist_102,EDM,363,1997,1461045,Australia,4.6,68.42,Yes,Spotify
+SNG1426,Song_426,Artist_65,Reggae,309,1996,1851252,Canada,4.5,19.31,No,YouTube Music
+SNG1427,Song_427,Artist_63,Country,153,2016,1315535,Brazil,2.8,62.74,No,YouTube Music
+SNG1428,Song_428,Artist_23,,316,1992,883769,Brazil,1.5,65.15,No,SoundCloud
+SNG1429,Song_429,Artist_81,EDM,312,2013,1887287,Australia,3.7,16.54,No,YouTube Music
+SNG1430,Song_430,Artist_80,EDM,317,2017,31727,USA,1.5,51.34,No,Spotify
+SNG1431,Song_431,Artist_13,Jazz,197,2017,1795931,Canada,3.8,65.83,No,SoundCloud
+SNG1432,Song_432,Artist_95,Metal,243,2005,1247271,Canada,1.6,74.13,No,SoundCloud
+SNG1433,Song_433,Artist_112,Country,234,2006,165941,France,3.9,24.47,Yes,Apple Music
+SNG1434,Song_434,Artist_150,R&B,148,2019,1769750,Mexico,4.9,60.79,Yes,Amazon Music
+SNG1435,Song_435,Artist_65,Jazz,419,2015,1568690,Germany,1.1,66.52,Yes,Apple Music
+SNG1436,Song_436,Artist_150,Hip-Hop,156,2010,964886,Brazil,3.2,78.06,No,Apple Music
+SNG1437,Song_437,Artist_103,Country,157,2023,748172,Germany,4.2,47.76,No,Apple Music
+SNG1438,Song_438,Artist_33,Hip-Hop,406,2018,252506,UK,3.6,52.18,No,Amazon Music
+SNG1439,Song_439,Artist_115,Country,231,1990,465403,Mexico,1.8,92.16,No,SoundCloud
+SNG1440,Song_440,Artist_59,Classical,197,1991,1676555,USA,1.9,72.55,No,Apple Music
+SNG1441,Song_441,Artist_79,R&B,191,2023,176771,,3.0,74.18,No,SoundCloud
+SNG1442,Song_442,Artist_19,Rock,237,2011,705478,UK,4.7,19.35,No,
+SNG1443,Song_443,Artist_50,Metal,164,1996,1023395,Brazil,2.0,98.22,No,Apple Music
+SNG1444,Song_444,Artist_115,Hip-Hop,222,2021,609315,Germany,3.2,38.25,No,YouTube Music
+SNG1445,Song_445,Artist_1,Metal,146,2000,1955352,Brazil,1.2,38.63,Yes,Amazon Music
+SNG1446,Song_446,Artist_111,Jazz,120,2023,302551,Germany,4.9,28.37,Yes,SoundCloud
+SNG1447,Song_447,Artist_62,Reggae,212,2013,1615897,UK,3.1,21.15,No,YouTube Music
+SNG1448,Song_448,,Metal,120,2024,1827689,India,2.9,33.7,Yes,SoundCloud
+SNG1449,Song_449,Artist_40,Hip-Hop,419,2003,1343897,,2.9,4.44,No,SoundCloud
+SNG1450,Song_450,Artist_1,Jazz,355,1997,1036834,Canada,1.5,27.71,Yes,Amazon Music
+SNG1451,Song_451,Artist_69,Reggae,231,2008,1157616,India,4.9,68.07,No,Amazon Music
+SNG1452,Song_452,Artist_1,Classical,351,2020,596913,UK,1.3,43.88,Yes,SoundCloud
+SNG1453,Song_453,Artist_42,Metal,259,1992,477389,Canada,1.4,94.3,Yes,Apple Music
+SNG1454,Song_454,Artist_28,Jazz,183,2020,1813160,Canada,2.9,71.23,No,YouTube Music
+SNG1455,Song_455,Artist_94,Country,304,2024,642721,Brazil,1.8,99.43,No,Spotify
+SNG1456,Song_456,Artist_101,R&B,197,2000,154929,Japan,2.0,39.0,No,Amazon Music
+SNG1457,Song_457,Artist_64,Metal,259,2004,497528,Canada,3.1,63.49,Yes,Spotify
+SNG1458,Song_458,Artist_124,R&B,129,2009,604273,France,,66.83,No,Spotify
+SNG1459,Song_459,Artist_116,R&B,207,1996,1077554,Germany,1.0,39.51,Yes,Amazon Music
+SNG1460,Song_460,Artist_16,Metal,349,1995,729851,Germany,4.1,14.64,No,Amazon Music
+SNG1461,Song_461,Artist_33,Hip-Hop,132,2001,453843,France,4.4,4.5,Yes,Apple Music
+SNG1462,Song_462,Artist_138,R&B,231,1999,1334322,Brazil,1.3,26.96,No,YouTube Music
+SNG1463,Song_463,Artist_109,EDM,172,2009,613722,France,1.2,97.22,No,Amazon Music
+SNG1464,Song_464,Artist_136,Reggae,277,1993,772580,Mexico,4.4,89.26,Yes,YouTube Music
+SNG1465,Song_465,Artist_27,EDM,360,2014,1155086,India,2.9,79.02,No,YouTube Music
+SNG1466,Song_466,Artist_8,Country,272,2016,499926,Canada,3.9,21.08,Yes,Amazon Music
+SNG1467,Song_467,Artist_118,R&B,402,2002,436990,Canada,2.7,30.5,No,Spotify
+SNG1468,Song_468,,Pop,149,2004,558163,Germany,4.3,43.42,Yes,Spotify
+SNG1469,Song_469,Artist_42,,314,2009,415776,Mexico,2.2,77.67,No,Apple Music
+SNG1470,Song_470,Artist_136,EDM,406,2021,1958970,France,1.4,24.81,No,YouTube Music
+SNG1471,Song_471,Artist_27,Pop,311,2016,361225,Canada,1.9,0.63,Yes,Apple Music
+SNG1472,Song_472,Artist_51,Classical,222,1994,1068616,Mexico,2.7,78.66,No,SoundCloud
+SNG1473,Song_473,Artist_119,Jazz,299,2016,541210,Japan,3.8,75.48,Yes,Spotify
+SNG1474,Song_474,Artist_2,Pop,364,2012,1373968,UK,1.1,32.65,No,SoundCloud
+SNG1475,Song_475,Artist_80,R&B,318,1993,662986,Brazil,1.0,31.93,No,
+SNG1476,Song_476,Artist_14,EDM,365,2025,224376,Japan,5.0,3.53,Yes,YouTube Music
+SNG1477,Song_477,Artist_89,Country,310,2020,594345,UK,4.9,45.87,Yes,YouTube Music
+SNG1478,Song_478,Artist_40,R&B,124,2023,179429,India,3.5,60.31,Yes,SoundCloud
+SNG1479,Song_479,Artist_22,Reggae,340,2008,1249092,Australia,,34.75,No,YouTube Music
+SNG1480,Song_480,,,172,2022,1166318,USA,2.1,98.66,Yes,Spotify
+SNG1481,Song_481,Artist_94,Country,127,2021,1851694,Brazil,2.6,46.2,No,Apple Music
+SNG1482,Song_482,Artist_63,,357,2009,784093,Germany,4.2,0.95,No,YouTube Music
+SNG1483,Song_483,Artist_50,Classical,365,2023,76679,Mexico,4.8,28.52,No,Amazon Music
+SNG1484,Song_484,Artist_130,R&B,135,2004,275924,Japan,,19.89,Yes,Amazon Music
+SNG1485,Song_485,Artist_53,Hip-Hop,388,2001,1319255,France,1.7,12.66,Yes,Spotify
+SNG1486,Song_486,Artist_14,Jazz,341,2008,169929,USA,1.1,24.4,Yes,Apple Music
+SNG1487,Song_487,Artist_102,R&B,289,2016,179959,India,1.6,12.79,No,YouTube Music
+SNG1488,Song_488,Artist_78,Country,218,1998,1332922,Canada,2.3,41.12,Yes,Amazon Music
+SNG1489,Song_489,Artist_54,Metal,223,2024,152045,Japan,4.6,68.4,Yes,Spotify
+SNG1490,Song_490,Artist_10,Pop,306,1996,1483904,Mexico,2.1,80.34,Yes,Spotify
+SNG1491,Song_491,Artist_101,Reggae,129,1990,1079980,France,3.2,51.32,Yes,Apple Music
+SNG1492,Song_492,Artist_139,Reggae,379,2005,51666,India,3.0,67.77,Yes,Apple Music
+SNG1493,Song_493,Artist_44,R&B,302,1996,455915,India,1.8,91.25,No,SoundCloud
+SNG1494,Song_494,Artist_6,EDM,159,2025,1056087,UK,3.0,54.82,Yes,YouTube Music
+SNG1495,Song_495,Artist_142,Reggae,174,1990,904928,Mexico,1.6,93.46,Yes,Apple Music
+SNG1496,Song_496,Artist_113,Country,354,2015,613831,Canada,1.4,88.28,No,Spotify
+SNG1497,Song_497,Artist_126,Reggae,383,2023,671427,Germany,4.1,72.62,No,SoundCloud
+SNG1498,Song_498,Artist_78,EDM,356,2022,1634854,India,1.8,70.24,Yes,Amazon Music
+SNG1499,Song_499,Artist_103,Metal,340,2009,477539,Brazil,1.1,74.05,Yes,Apple Music
+SNG1500,Song_500,Artist_72,R&B,296,2017,761617,USA,2.8,34.3,No,Amazon Music
+SNG1501,Song_501,Artist_59,R&B,313,1998,1026523,USA,,49.15,Yes,SoundCloud
+SNG1502,Song_502,Artist_107,Hip-Hop,256,2006,585937,Germany,1.3,77.37,Yes,Apple Music
+SNG1503,Song_503,Artist_116,Pop,138,2024,1107180,France,2.3,0.36,Yes,Apple Music
+SNG1504,Song_504,Artist_111,Pop,329,2020,289425,UK,3.8,72.29,No,Amazon Music
+SNG1505,Song_505,Artist_6,Classical,274,1999,621239,India,3.4,82.98,Yes,Amazon Music
+SNG1506,Song_506,Artist_107,Jazz,244,1991,1483748,UK,2.1,56.36,Yes,Amazon Music
+SNG1507,Song_507,Artist_106,Country,405,2003,203681,UK,1.5,25.99,No,Amazon Music
+SNG1508,Song_508,Artist_118,Metal,258,1998,1159557,Australia,4.1,28.12,No,Apple Music
+SNG1509,Song_509,Artist_76,Pop,420,2023,162749,Australia,,23.6,Yes,Amazon Music
+SNG1510,Song_510,Artist_20,Jazz,224,1992,1395007,USA,2.1,36.6,No,SoundCloud
+SNG1511,Song_511,Artist_124,Metal,370,1997,1112845,,1.2,2.42,No,Amazon Music
+SNG1512,Song_512,Artist_149,,396,2008,1272031,Mexico,1.6,32.65,Yes,SoundCloud
+SNG1513,Song_513,Artist_110,Pop,271,2005,1317504,India,3.5,68.93,Yes,SoundCloud
+SNG1514,Song_514,Artist_136,rock,235,2025,1425113,UK,2.2,42.43,Yes,Amazon Music
+SNG1515,Song_515,Artist_112,Jazz,226,2020,617802,Japan,2.7,34.37,Yes,Amazon Music
+SNG1516,Song_516,Artist_122,Classical,242,2003,498183,France,3.7,37.57,No,Amazon Music
+SNG1517,Song_517,Artist_149,EDM,388,1991,1060885,Canada,1.2,49.4,No,SoundCloud
+SNG1518,Song_518,Artist_132,Jazz,226,1998,1399263,France,4.7,56.3,Yes,Spotify
+SNG1519,Song_519,Artist_59,Jazz,336,2010,1871090,Japan,1.2,47.47,Yes,SoundCloud
+SNG1520,Song_520,Artist_47,Classical,272,1998,9621,Mexico,1.0,19.68,Yes,SoundCloud
+SNG1521,Song_521,Artist_92,Reggae,407,2002,611890,Germany,3.0,55.04,No,Apple Music
+SNG1522,Song_522,,Classical,220,2018,723579,India,2.4,10.53,Yes,
+SNG1523,Song_523,Artist_16,Reggae,394,2023,723681,Mexico,,6.49,Yes,YouTube Music
+SNG1524,Song_524,Artist_10,Hip-Hop,195,2015,1062888,Mexico,4.0,53.66,No,SoundCloud
+SNG1525,Song_525,Artist_142,Classical,345,1993,1772982,Germany,3.8,72.3,Yes,Amazon Music
+SNG1526,Song_526,Artist_75,R&B,123,1999,1271175,Canada,5.0,94.4,No,YouTube Music
+SNG1527,Song_527,Artist_146,Classical,397,2006,298399,Mexico,3.5,23.04,No,Spotify
+SNG1528,Song_528,Artist_12,R&B,351,1993,1506784,UK,3.6,63.62,No,Amazon Music
+SNG1529,Song_529,Artist_84,Pop,256,1998,170157,Canada,3.9,56.44,No,Spotify
+SNG1530,Song_530,Artist_111,Reggae,220,2020,1027705,Canada,4.6,97.08,No,Amazon Music
+SNG1531,Song_531,Artist_15,,193,2012,1958611,Japan,4.5,98.69,No,Spotify
+SNG1532,Song_532,,Metal,379,2019,1003543,Japan,1.1,5.19,Yes,YouTube Music
+SNG1533,Song_533,Artist_133,EDM,245,1996,393412,Mexico,3.5,52.53,Yes,Apple Music
+SNG1534,Song_534,Artist_82,Metal,187,1999,684432,Australia,4.1,23.16,No,YouTube Music
+SNG1535,Song_535,Artist_137,Jazz,243,2019,53358,Japan,4.2,77.52,Yes,
+SNG1536,Song_536,Artist_41,Metal,411,2021,876687,Australia,,0.04,No,Amazon Music
+SNG1537,Song_537,Artist_131,EDM,397,1990,1883143,Japan,2.2,9.68,Yes,SoundCloud
+SNG1538,Song_538,Artist_83,Jazz,127,2016,1957358,,1.7,65.97,Yes,Amazon Music
+SNG1539,Song_539,Artist_24,R&B,155,2006,1781578,Germany,1.8,62.41,No,SoundCloud
+SNG1540,Song_540,Artist_3,Reggae,175,2017,1596081,Japan,3.8,75.56,No,Spotify
+SNG1541,Song_541,Artist_149,Rock,179,2021,55424,Brazil,4.5,35.36,No,Amazon Music
+SNG1542,Song_542,Artist_46,EDM,257,1994,264371,,2.3,8.39,Yes,SoundCloud
+SNG1543,Song_543,Artist_135,Classical,245,2009,1768224,,,70.29,Yes,Apple Music
+SNG1544,Song_544,Artist_106,R&B,143,2012,1732265,UK,,55.03,No,Spotify
+SNG1545,Song_545,,Pop,274,2024,483368,Germany,4.1,2.38,No,Spotify
+SNG1546,Song_546,Artist_48,Jazz,305,1995,1981984,Australia,4.1,9.45,No,SoundCloud
+SNG1547,Song_547,Artist_85,Reggae,387,2023,232750,Mexico,2.8,52.67,No,Amazon Music
+SNG1548,Song_548,Artist_130,Pop,237,2004,441440,USA,4.6,31.9,Yes,Spotify
+SNG1549,Song_549,Artist_105,EDM,358,1990,111844,India,1.8,52.34,No,Apple Music
+SNG1524,Song_524,Artist_10,Hip-Hop,195,2015,1062888,Mexico,4.0,53.66,No,SoundCloud
+SNG1099,Song_99,Artist_124,Hip-Hop,228,2008,226925,Japan,,6.2,Yes,Apple Music
+SNG1295,Song_295,Artist_149,,189,2006,1969713,Japan,2.0,58.67,No,SoundCloud
+SNG1326,Song_326,Artist_116,Reggae,387,2004,1349275,France,4.9,27.13,Yes,Amazon Music
+SNG1520,Song_520,Artist_47,Classical,272,1998,9621,Mexico,1.0,19.68,Yes,SoundCloud
+SNG1367,Song_367,Artist_107,,164,2000,1545111,Brazil,1.7,4.4,No,Amazon Music
+SNG1338,Song_338,Artist_70,Metal,204,1997,501432,Australia,1.3,92.82,No,SoundCloud
+SNG1394,Song_394,Artist_2,Pop,305,2015,233804,USA,4.8,75.74,No,YouTube Music
+SNG1535,Song_535,Artist_137,Jazz,243,2019,53358,Japan,4.2,77.52,Yes,Spotify
+SNG1294,Song_294,Artist_71,Country,149,2012,1594553,Canada,2.6,68.15,No,Spotify
